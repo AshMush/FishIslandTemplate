@@ -31,5 +31,8 @@
 			"Name": "AnimatorKit",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
